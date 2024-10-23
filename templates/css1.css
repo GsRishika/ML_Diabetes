@@ -1,0 +1,57 @@
+.cont {
+    padding:1%;
+
+    align-items: center;
+
+    display: flex;
+    justify-content: center;
+    
+  
+
+
+
+}
+
+.card1 {
+
+    width: 60%;
+    margin-top: 4%;
+
+    text-align;
+    border-style:solid;
+    border-width: 2px;
+}
+.cardh{
+    margin: 0%;
+    padding: 1%;
+    text-align: center;
+}
+.cardh2{
+    text-align: center;
+}
+
+.item{
+    width: 6rem;
+    display: flex;
+    justify-content: right;
+}
+.item1{
+    display: flex;
+    justify-content: left;
+    padding: 1%;
+    text-align: left;
+}
+
+.btt{
+    width: 1000px;
+    padding: 1%;
+}
+
+.insider{
+    padding: 1%;
+
+}
+
+
+
+
